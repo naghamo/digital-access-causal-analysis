@@ -70,7 +70,6 @@ DIGITAL-ACCESS-CAUSAL-ANALYSIS/
 ├── estimation.py                 # Main script to run the core analysis
 ├── data_loader.py                # Helpers for loading/cleaning PISA data
 ├── plot_robustness.ipynb         # Aggregated robustness plots
-├── requirements.txt
 ├── heatmap.ipynb     #check missignes 
 └── README.md
 ```
